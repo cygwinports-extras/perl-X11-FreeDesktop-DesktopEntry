@@ -1,0 +1,4 @@
+category: Perl
+requires: cygwin perl
+sdesc: "Perl FreeDesktop Desktop Entry interface"
+ldesc: "Perl FreeDesktop Desktop Entry interface"
